@@ -1,7 +1,29 @@
-## Hi there 👋
+<h1>Hi, I'm Nel!</h1>
+
+<h2>💻 Cybersecurity Projects (with a IAM focus):</h2>
+
+I'm currently studying for the Microsoft Identity and Access Management SC300, and breaking and fixing all sorts of things in my home lab. A lot of which I will post here... Also, check me out on YT.
+
+  - [Active Directory Home Lab](https://github.com/iamnellynel/ADhome-Lab)
+  - ["Hello World!"](https://github.com/iamnellynel/HelloWorld-Lab)
+
+<h2>📄 Certifications</h2>
+
+- [Security+ Certification Starting From Zero](https://www.youtube.com/)
+ 
+<h2>📺 YouTube Videos</h2>
+
+- [Security+ Certification Starting From Zero](https://www.youtube.com/)
+- [Turorial Active Directory Home Lab](https://www.youtube.com/)
+
+<h2>🔗 Connect with me:</h2>
+
+https://linkedin.com/in/nelcook11<br>
+https://www.youtube.com/<br>
+https://www.instagram.com/iamnellynel<br>
 
 <!--
-**iamnellynel/iamnellynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
