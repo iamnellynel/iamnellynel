@@ -16,11 +16,6 @@ I'm currently studying for the Microsoft Identity and Access Management SC300, a
 - [Security+ Certification Starting From Zero](https://www.youtube.com/)
 - [Turorial Active Directory Home Lab](https://www.youtube.com/)
 
-<h2>🔗 Connect with me:</h2>
-
-https://linkedin.com/in/nelcook11<br>
-https://www.youtube.com/<br>
-https://www.instagram.com/iamnellynel<br>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
