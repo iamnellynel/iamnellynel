@@ -4,7 +4,8 @@
 
 Currently breaking and fixing all sorts of things in my home lab. Keep up with me here!
 
- - [Azure IAM Home Lab](https://github.com/iamnellynel/azure-IAM-lab)
+ - [Azure IAM Lab](https://github.com/iamnellynel/azure-IAM-lab)
+ - [Azure CLI Lab](https://github.com/iamnellynel/azure-CLI-lab)
  - [Sentinel Attacker Map](https://github.com/iamnellynel/sentinel-attackerMap)
 
 <h2>📄 Certifications</h2>
