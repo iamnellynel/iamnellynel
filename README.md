@@ -29,9 +29,9 @@ Key Outcomes:<br>
 -Identity-first security controls<br><br>
 <br>
 <h2>🧑‍💻Labs</h2><br>
- - [Azure IAM Lab](https://github.com/nelcook11/azure-IAM-lab)<br>
- - [Azure CLI Lab](https://github.com/nelcook11/azure-CLI-lab)<br>
  - [Azure Attacker Map](https://github.com/nelcook11/sentinel-attackerMap)<br>
+ - [Azure CLI Lab](https://github.com/nelcook11/azure-CLI-lab)<br>
+ - [Azure IAM Lab](https://github.com/nelcook11/azure-IAM-lab)<br>
  <br>
 <h2>🔗Connect</h2><br>
 [LinkedIn](https://linkedin.com/in/nelcook11)<br>
